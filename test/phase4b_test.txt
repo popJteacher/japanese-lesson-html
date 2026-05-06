@@ -1,0 +1,9 @@
+Phase 4-B 動作確認用テストファイル
+
+このファイルは popJteacher/japanese-lesson-system プロジェクトの
+github_publisher.js モジュールが正しく動作するか確認するために
+自動生成されました。
+
+確認後は手動で削除して問題ありません。
+
+[1回目] 新規作成テスト
